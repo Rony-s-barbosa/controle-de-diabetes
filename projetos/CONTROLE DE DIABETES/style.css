@@ -1,0 +1,82 @@
+
+body{
+background-color: black;
+color: white;
+
+}
+
+
+
+h1{
+
+text-align: center;
+align-items: center;
+font-size: 100px;
+
+}
+
+h2{
+
+left: 250px;
+position: absolute;
+font-size: 50px;
+
+}
+
+h3{
+
+    left: 250px;
+    position: absolute;
+    font-size: 50px;
+    top: 350px;
+
+}
+
+.SENHA{
+position: absolute;
+    left: 450PX;
+    width: 250px;
+    top: 415px;
+    height: 30px;
+    text-align: center;
+}
+
+.EMAIL{
+    position: absolute;
+    left: 450PX;
+    width: 250px;
+    top: 310px;
+    height: 30px;
+    text-align: center;
+
+}
+
+
+.cadastro{
+
+left: 400px;
+position: absolute;
+top: 500px;
+width: 600px;
+height: 50px;
+border-radius: 30px;
+background-color: aqua;
+
+
+}
+input{
+
+border-radius: 30px;
+
+}
+
+button:hover{
+
+    box-shadow: 15px 15px 15px aqua;
+
+}
+input:hover{
+
+box-shadow: 15px 15px 15px white;
+
+}
